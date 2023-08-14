@@ -13,7 +13,6 @@ const Auth0ProviderWithHistory = ({ children }: any) => {
 
   // eslint-disable-next-line react-hooks/rules-of-hooks
   //const history = useHistory();
-
   /*const onRedirectCallback = (appState: any) => {
     history.push(appState?.returnTo || window.location.pathname);
   };*/
